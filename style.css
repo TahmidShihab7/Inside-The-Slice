@@ -108,3 +108,22 @@ h3 {
   padding-top: 2%;
   padding-bottom: 5%;
 }
+#button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(235, 34, 68), orange);
+  color: white;
+  font-weight: 734;
+  padding: 10px 30px;
+  border-radius: 84px;
+  float: right;
+}
+header {
+  padding-top: 10px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+}
+.header {
+  background-color: lightblue;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
