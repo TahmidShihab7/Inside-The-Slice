@@ -64,3 +64,47 @@ h3 {
   margin-left: 25%;
   margin-right: 25%;
 }
+.formatting {
+  display: flex;
+}
+.food-item {
+  width: 40%;
+  margin-right: 5%;
+  margin-left: 5%;
+  box-shadow: 10px 10px 55px gray;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 22px;
+}
+.My-recipies {
+  background-image: url(exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+}
+#all-food {
+  border-image-slice: 1;
+}
+.alignment {
+  display: flex;
+}
+.food-item img {
+  width: 100%;
+  padding-top: 5%;
+}
+#engagement {
+  border: 100px;
+  display: flex;
+  border-radius: 20px;
+  box-shadow: 10px 10px 50px #c9c9c9;
+  margin: 50px;
+}
+.arrangement {
+  padding-left: 160px;
+  padding-right: 160px;
+}
+.footer {
+  text-align: center;
+  background-color: lightblue;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
